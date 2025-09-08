@@ -15,7 +15,7 @@ In UserRepository, declare the following methods that help to find all user and 
 - `data.sql` contains insert statements for dummy users. Find where this file is and explain what it is used for? 
 
 ```
-Your answer
+The data.sql file is located in src/main/resources/ and is used to automatically insert dummy data into the database when the app runs, so it can be used for testing or system initialization.
 ```
 
 ## User Reservice - Complete the code
